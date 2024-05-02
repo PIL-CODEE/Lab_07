@@ -38,7 +38,7 @@ if ($stmt->execute()) {
     header("Location: Exito.php");
     exit();
 } else {
-    echo "Error al ejecutar la consulta: " . $stmt->error;
+    echo "Error al ejecutar la consulta:  " . $stmt->error;
 }
 
 // Cerrar la conexión.

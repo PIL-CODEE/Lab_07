@@ -49,7 +49,7 @@
 </head>
 <body>
 <div class="container">
-    <h2>AGENTE REGISTRADO</h2> 
+    <h2>AGENTE REGISTRADO.</h2> 
     <br>
     <br>
     <a href="Formulario.html">Registrar otro agente...</a>
